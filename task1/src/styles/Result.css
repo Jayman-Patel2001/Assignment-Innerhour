@@ -1,0 +1,11 @@
+details.collapse {
+  width: 33.33% !important;
+  border-radius: 0 !important;
+  margin: 0.5rem 0 0 0;
+}
+
+@media (max-width: 500px) {
+  details.collapse {
+    width: 80% !important;
+  }
+}

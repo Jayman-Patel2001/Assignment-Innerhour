@@ -1,0 +1,8 @@
+:where(.css-dev-only-do-not-override-14wwjjs).ant-progress.ant-progress-circle
+  .ant-progress-text {
+  color: #52c41a !important;
+}
+
+:where(.css-14wwjjs).ant-progress.ant-progress-circle .ant-progress-text {
+  color: #52c41a !important;
+}
